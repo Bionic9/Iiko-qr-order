@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Iiko-qr-order/static/js/main.9132b751.js",
+    "main.js": "/Iiko-qr-order/static/js/main.bc242013.js",
     "index.html": "/Iiko-qr-order/index.html",
-    "main.9132b751.js.map": "/Iiko-qr-order/static/js/main.9132b751.js.map"
+    "main.bc242013.js.map": "/Iiko-qr-order/static/js/main.bc242013.js.map"
   },
   "entrypoints": [
-    "static/js/main.9132b751.js"
+    "static/js/main.bc242013.js"
   ]
 }
