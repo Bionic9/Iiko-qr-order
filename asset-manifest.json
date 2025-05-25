@@ -1,12 +1,10 @@
 {
   "files": {
-    "main.css": "/Iiko-qr-order/static/css/main.31d6cfe0.css",
-    "main.js": "/Iiko-qr-order/static/js/main.fd4fadad.js",
+    "main.js": "/Iiko-qr-order/static/js/main.9132b751.js",
     "index.html": "/Iiko-qr-order/index.html",
-    "main.fd4fadad.js.map": "/Iiko-qr-order/static/js/main.fd4fadad.js.map"
+    "main.9132b751.js.map": "/Iiko-qr-order/static/js/main.9132b751.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.fd4fadad.js"
+    "static/js/main.9132b751.js"
   ]
 }
